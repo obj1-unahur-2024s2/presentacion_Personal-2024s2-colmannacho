@@ -1,35 +1,16 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidxs a
-# Programación con objetos I
+# Ignacio Colman
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+Buenas, me llamo Ignacio pero siempre me dijeron Nacho. Estoy en la Tecnicatura en Programación y este es mi cuarto cuatrimestre. Nunca había estudiado ni indagado en el mundo de la programación pero me resulta bastante interesante y divertido especialmente por la resolución de problemas y la modalidad de trabajo en equipo.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+Hasta ahora, siento que mi forma de ser y de hacer las cosas ha cambiado gracias a la universidad. El compromiso que requiere y la manera de pensar que ésta carrera en particular fomenta me han hecho más estructurado en casi todo lo que hago, lo cual me funciona bien.
 
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
+No tengo mucho mas que decir pero me quedo con una frase de un profesor de la materia Programación Estructurada que me gustaría mencionar: "programar es comunicar pero también es jugar".
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
+Pd. Me estaba olvidando de la foto, adjunto una que me sacaron el otro día medio distraído.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
+![Foto](./assets/imagen.jfif)
 
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
+Saludos!!
 
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
